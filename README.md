@@ -23,7 +23,7 @@ My Skills
     Responsive Design
     UI/UX Design
     Cross-Browser Compatibility
-  ======
+  
 
 Contact Me
 
