@@ -3,18 +3,26 @@ Hi there! 👋
 I'm Esmir Rastoder, and welcome to my GitHub profile!
 About Me
 
-I am a FrontEnd Dev, and I am passionate about developing my coding and programming skills everyday, and I'm always looking for new projects to work on.
+I am a frontend developer with a passion for creating beautiful and functional user interfaces. I specialize in HTML, CSS, and JavaScript and have experience working with various frontend frameworks such as React.
 
-Projects
+My Projects
 
-Here are some of the projects that I'm currently working on or have worked on in the past:
+Here are a few of my latest projects:
 
-  ======
+    Project Name - Brief description of project
+    Project Name - Brief description of project
+    Project Name - Brief description of project
 
-Skills
 
-Here are some of the programming languages and tools that I am familiar with:
+My Skills
 
+    HTML
+    CSS
+    JavaScript
+    React
+    Responsive Design
+    UI/UX Design
+    Cross-Browser Compatibility
   ======
 
 Contact Me
