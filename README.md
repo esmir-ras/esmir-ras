@@ -21,9 +21,9 @@ My Projects
 
 Here are a few of my latest projects:
 
-    Project Name - Brief description of project
-    Project Name - Brief description of project
-    Project Name - Brief description of project
+    Project Exam 2 -  https://github.com/Noroff-FEU-Assignments/project-exam-2-esmir-ras
+    Semester Project 2 -  https://github.com/esmir-ras/semesterproject22
+    JS Framework 2 -  https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-esmir-ras
 
 
 My Skills
