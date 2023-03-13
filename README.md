@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there! 👋
 
-<!--
-**esmir-ras/esmir-ras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Esmir Rastoder, and welcome to my GitHub profile!
+About Me
 
-Here are some ideas to get you started:
+I am a FrontEnd Dev, and I am passionate about developing my coding and programming skills everyday, and I'm always looking for new projects to work on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+Here are some of the projects that I'm currently working on or have worked on in the past:
+
+  ======
+
+Skills
+
+Here are some of the programming languages and tools that I am familiar with:
+
+  ======
+
+Contact Me
+
+If you want to get in touch with me, feel free to reach out via:
+
+    Email: esmir.rastoder1@mail.com
+
+Thanks for stopping by!
